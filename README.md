@@ -1,6 +1,11 @@
 # Ignite Lab 2.0
 Projeto desenvolvimento no evento Ignite Lab 2.0 da Rocketseat
 
+![GitHub language count](https://img.shields.io/github/languages/count/andersondev96/ignite-lab-2?color=blue)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/andersondev96/ignite-lab-2?color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/andersondev96/ignite-lab-2?color=blue)
+![GitHub](https://img.shields.io/github/license/andersondev96/ignite-lab-2?color=blue)
+
 [Sobre o Projeto](#-sobre-o-projeto) | [Tecnologias](#-tecnologias) | [Layout](#-layout) | [Como executar a aplicação](#-como-executar-a-aplicação) |
  [Como contribuir](#-como-contribuir) | [Licença](#-licença) | [Autor](#-autor)
 
@@ -33,7 +38,11 @@ Lembrando que é necessário possuir uma conta no [Figma](https://www.figma.com/
    ```
    npm install
    ```
- - A aplicação será executada na porta `3000`. Para acessar, utilize o navegador de sua preferência e acesse o endereço `http://localhost:3000`.
+ - Execute a aplicação com o comando:
+   ```
+   npm run dev
+   ```
+ - A aplicação será iniciada na porta `3000`. Para acessar, utilize o navegador de sua preferência e acesse o endereço `http://localhost:3000`.
 
 ## 🤝 Como contribuir?
 
